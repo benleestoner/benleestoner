@@ -18,4 +18,4 @@ Each SOP was written to support planners and production team members by ensuring
 - Reduced process variance and data entry errors
 - Faster onboarding for new employees
 
-All content has been sanitized of internal-only details for public demonstration purposes.
+*All content has been sanitized of internal-only details for public demonstration purposes.
