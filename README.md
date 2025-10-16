@@ -5,7 +5,7 @@ Here you'll find Standard Operating Procedures (SOPs) I developed for production
 
 ## 🧾 Documents
 
-- [WeekPlanTotals SOP](main/SOP - Add Postings to Teams (Monday).pdf)
+- [Add Work Order Postings to Dashboard](https://github.com/benleestoner/benleestoner/blob/main/SOP%20-%20Add%20Postings%20to%20Teams%20(Monday).pdf)
 - [MTS Inventory Update SOP](SOPs/MTS_Inventory_Update_SOP.pdf)
 - [CO02 Work Order Change SOP](SOPs/CO02_Change_Work_Orders_SOP.pdf)
 
